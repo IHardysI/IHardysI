@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Uladzislau and I'm a Frontend developer, from Belarus</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 ###
 
 <div align="left">
-  <a href="uladzislau.praca@gmail.com" target="_blank">
+  <a href="mailto:uladzislau.praca@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/uladzislau-karotkin-56019a243?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSbbxYMCTSTuztOrLLzSthA%3D%3D" target="_blank">
