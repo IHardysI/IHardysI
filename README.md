@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Uladzislau and I'm a Frontend developer, from Belarus</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -50,13 +50,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/IHardysI/IHardysI/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IHardysI/IHardysI/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IHardysI/IHardysI/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IHardysI/IHardysI/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
