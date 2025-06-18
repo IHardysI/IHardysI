@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Uladz and I'm a Frontend developer, from Belarus living in Czech Republic</h2>
+<h2 align="left">Hi 👋! My name is Uladz, and I'm a Frontend Developer from Belarus, living in the Czech Republic.</h2>
 
 ###
 
